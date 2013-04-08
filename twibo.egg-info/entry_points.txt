@@ -1,0 +1,5 @@
+      [paste.app_factory]
+      main = twibo:main
+      [console_scripts]
+      initialize_twibo_db = twibo.scripts.initializedb:main
+      
